@@ -6,18 +6,12 @@
   and a passionate vibe coder who loves the flow state of deep work.</em>
 </p>
 
-<p align="center">
-  <a href="https://github.com/easonwy"><img src="https://img.shields.io/github/followers/easonwy?style=social" alt="GitHub followers"></a>
-  <a href="mailto:easonwy@gmail.com"><img src="https://img.shields.io/badge/Email-easonwu85@gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://easonwy.github.io"><img src="https://img.shields.io/badge/Website-easonwy.github.io-orange?style=flat-square&logo=google-chrome"></a>
-</p>
-
 ---
 
 ### 🌱 Currently Exploring
 
 - 📦 Fullstack development with **React**, **Next.js**, and **TailwindCSS**
-- 🤖 Integrating **AI Agents** into real-world applications
+- 🤖 Integrating **AI Agents** into real-world applications, with **Golang** & **Python**
 - 🧠 Building development workflows powered by **AI-assisted tools** like Cursor, Copilot, and CodeWhisperer
 - 🎧 Finding flow with deep work and **lo-fi coding sessions**
 
@@ -48,7 +42,7 @@
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-[Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white)
 
 ---
 
