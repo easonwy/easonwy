@@ -17,32 +17,35 @@
 
 ---
 
-### 💻 Tech Stack Highlights
+## 🚀 Tech Stack Highlights
 
-#### 🔙 Backend & Infrastructure
+### 🛠️ Backend & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraalVM-%23F28D00?style=flat-square&logo=graalvm&logoColor=white"/>
+</p>
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
-![GraalVM](https://img.shields.io/badge/GraalVM-%23f88c00.svg?style=flat&logo=oracle&logoColor=white)
+### 🗄️ Data & Messaging
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-%2300758F?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-%23000000?style=flat-square&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MQTT-%23660066?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAyNDAgMjQwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMjAsMGM2Ni4yODcsMCwxMjAsNTMuNzEyLDEyMCwxMjBTMTg2LjI4NywyNDAsMTIwLDI0MFMwLDE4Ni4yODcsMCwxMjBTNTMuNzEyLDAsMTIwLDBaIiBmaWxsPSIjRkZGIi8+PHBhdGggZD0iTTE2NSAxMjBjMCAyNC44NTgtMjAuMTQyIDQ1LTQ1IDQ1cy00NS0yMC4xNDItNDUtNDVjMC0yNC44NTggMjAuMTQyLTQ1IDQ1LTQ1czQ1IDIwLjE0MiA0NSA0NVoiIGZpbGw9IiMwMDAiLz48L3N2Zz4="&logoColor=white"/>
+</p>
 
-#### 🗃️ Data & Messaging
-
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-%23000000.svg?style=flat&logo=apachekafka&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=flat&logo=mqtt&logoColor=white)
-
-#### 🌍 Frontend In Progress
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white)
+### 🌍 Frontend In Progress
+<p align="left">
+  <img src="https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+</p>
 
 ---
 
@@ -63,7 +66,7 @@
 
 ### ✨ Motto
 
-> Technology is not the destination; solving problems is the true value. 
+> Technology is not the destination; solving problems is the true value. <br/> 
 > 技术不是终点，解决问题才是价值。
 
 ---
