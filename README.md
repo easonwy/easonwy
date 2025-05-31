@@ -12,7 +12,7 @@
 
 - 📦 Fullstack development with **React**, **Next.js**, and **TailwindCSS**
 - 🤖 Integrating **AI Agents** into real-world applications, with **Golang** & **Python**
-- 🧠 Building development workflows powered by **AI-assisted tools** like Cursor, Copilot, and CodeWhisperer
+- 🧠 Building development workflows powered by **AI-assisted tools** like Cursor, Copilot, Trae, and Windsurf
 - 🎧 Finding flow with deep work and **lo-fi coding sessions**
 
 ---
